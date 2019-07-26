@@ -8,7 +8,7 @@ The Spring Data Elasticsearch project provides integration with the https://www.
 
 This project is lead and maintained by the community.
 
-== Features
+== Features:
 
 * Spring configuration support using Java based `@Configuration` classes or an XML namespace for a ES clients instances.
 * `ElasticsearchTemplate` helper class that increases productivity performing common ES operations. Includes integrated object mapping between documents and POJOs.
